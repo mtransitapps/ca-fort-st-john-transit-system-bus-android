@@ -5,7 +5,7 @@ Fort St. John TS buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from July 7, 2017 to September 2, 2017.
+Schedule from August 22, 2017 to September 2, 2017.
 Tweets from @BCTransit.
 ----------
 Full description:
